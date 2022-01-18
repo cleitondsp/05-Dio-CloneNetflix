@@ -17,11 +17,13 @@ body {
     color: white;
 }
 
+
 header .container {
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header .logo {
@@ -59,8 +61,48 @@ header nav a:hover { /*Efeito quando passa o mouse em cima*/
 
 .filme-principal .descricao {
     margin-bottom: 40px;
+    margin-top: 10px;
 }
-.titulo {
+.filme-principal .titulo {
     font-size: 40px;
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    margin-top: 15%;
 }
+
+.btn {
+    background-color: rgba(0, 0, 0, .50); 
+    border: none;
+    color: white;
+    padding: 15px 30px;
+    margin-right: 15px;
+    font-size: 12px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: .4s ease all;
+}
+
+.btn:hover {
+    background-color: white;
+    color: black;
+}
+
+.btn i {
+    margin-right: 7px;
+}
+
+.container {
+    margin-left: 20px;
+}
+
+.filme-principal .container {
+    width: 60%;
+}
+
+.box-filme {
+    height: 100%;
+    width: 100%;
+    display: block;
+
+}
+
 
