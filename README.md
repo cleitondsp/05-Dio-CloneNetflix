@@ -5,11 +5,13 @@ Projeto feito na aula Desafio de Projeto da Dio - Recriar o site da plataforma.
 ...........................................................................................................
 
 
-Tecnologias utilizadas:
+Tecnologias e recursos utilizadas:
 <ul>
   <li>HTML 5</li>
   <li>CSS 3</li>
   <li>jQuery</li>
+  <li>Flexbox</li>
+  <li>Containers</li>
 </ul>
 
 ...........................................................................................................
