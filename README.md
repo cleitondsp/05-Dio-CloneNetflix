@@ -11,6 +11,7 @@ Tecnologias e recursos utilizadas:
   <li>CSS 3</li>
   <li>jQuery</li>
   <li>Flexbox</li>
+  <li>@media</li>
   <li>Containers</li>
 </ul>
 
